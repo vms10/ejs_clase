@@ -35,19 +35,19 @@ Devuelve la altura promedio de una especie determinada en el parque seleccionado
 ##  Funciones adicionales para exploración (Ejercicio 5)
 
 ### `parques_mas_arboles(nombre_archivo)`
-Devuelve el o los parques con **mayor cantidad total de árboles**.
+Devuelve el o los parques con **mayor cantidad total de árboles**. El resultado para nuestro dataset fue **INDOAMERICANO**.
 
 ### `parques_mas_altos_promedio(nombre_archivo)`
-Retorna el/los parques con **mayor altura promedio** entre todos sus árboles.
+Retorna el/los parques con **mayor altura promedio** entre todos sus árboles. El resultado para nuestro dataset fue **INFANTE DON ENRIQUE EL NAVEGANTE**. Igualmente este parque tiene solamente 3 arboles. Se podria agregar una cota mínima para considerar solamente parques con cierta cantidad de arboles o más. 
 
 ### `parques_mas_variedad(nombre_archivo)`
-Identifica el/los parques que tienen la **mayor diversidad de especies**.
+Identifica el/los parques que tienen la **mayor diversidad de especies**. El resultado para nuestro dataset fue **EL ROSEDAL (SECTOR DENTRO DE PLAZA HOLANDA)**. 
 
 ### `especie_mas_frecuente(nombre_archivo)`
-Devuelve la(s) especie(s) más común(es) en toda la ciudad (sin distinguir parques).
+Devuelve la(s) especie(s) más común(es) en toda la ciudad (sin distinguir parques). El resultado para nuestro dataset fue **eucalipto**. 
 
 ### `razon_exoticos_nativos(nombre_archivo)`
-Calcula la **razón entre árboles exóticos y nativos/autóctonos** presentes en todos los espacios verdes (= exoticos/nativos).
+Calcula la **razón entre árboles exóticos y nativos/autóctonos** presentes en todos los espacios verdes. El resultado para nuestro dataset fue **exoticos/nativos = 1.92**. 
 
 
 ## Consideraciones
